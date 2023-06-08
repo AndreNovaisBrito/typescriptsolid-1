@@ -1,8 +1,9 @@
 {
   // "editor.fontSize": 20,
   // "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
   "code-runner.executorMap": {
-    "typescript": "cls && npx ts-node --files --transpile-only",
+    "typescript": "cls && npx ts-node --files --transpile-only"
   },
   "liveServer.settings.port": 5501
 }
